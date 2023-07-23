@@ -1101,10 +1101,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.30224585461414" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="212.30224585461414" y="0" width="167.69579514447634" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="379.99804099909045" y="0" width="40.669325310758175" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="420.66736630984866" y="0" width="39.332633690151354" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.9876486063944" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="214.9876486063944" y="0" width="169.81697265689576" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="384.80462126329013" y="0" width="41.18375000590411" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="425.9883712691942" y="0" width="34.01162873080575" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1117,7 +1117,7 @@
                             </div>
                             <small>
                                 <div>98.9 kB</div>
-                                <div>46.15%</div>
+                                <div>46.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1129,7 +1129,7 @@
                             </div>
                             <small>
                                 <div>18.9 kB</div>
-                                <div>8.84%</div>
+                                <div>8.95%</div>
                             </small>
                         </div>
                     </section>
@@ -1143,7 +1143,7 @@
                             </div>
                             <small>
                                 <div>78.1 kB</div>
-                                <div>36.46%</div>
+                                <div>36.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1154,8 +1154,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>18.3 kB</div>
-                                <div>8.55%</div>
+                                <div>15.6 kB</div>
+                                <div>7.39%</div>
                             </small>
                         </div>
                     </section>
