@@ -1,6 +1,8 @@
+<div align="left">
 
 <h1>✨ Info:</h1>
-<samp align="left">
+<samp>
+  
   hi! i'm nightly 👋
   <br>
   i like unix, hifi music, tui tools & more 🎵
@@ -23,8 +25,11 @@
   email: <a href="mailto:pixel@nightly.eu.org">pixel@nightly.eu.org</a> | telegram: <a href="https://t.me/pixelnightly">@pixelnightly</a>
   <br>
 </samp>
+
 <img align="left" alt="@pog5 on discord" src="https://discord.c99.nl/widget/theme-3/1063801507515998208.png">
-<img align="right" alt="metrics" src="left.github.svg">
+<img align="right" width="400" alt="metrics" src="left.github.svg">
+</div>
+
 
 
 <!-- 
