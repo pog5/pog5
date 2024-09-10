@@ -1,6 +1,6 @@
-<img align="left" width="400" alt="metrics" src="left.github.svg">
+
 <h1>✨ Info:</h1>
-<samp>
+<samp align="left">
   hi! i'm nightly 👋
   <br>
   i like unix, hifi music, tui tools & more 🎵
@@ -24,9 +24,11 @@
   <br>
 </samp>
 <img align="left" alt="@pog5 on discord" src="https://discord.c99.nl/widget/theme-3/1063801507515998208.png">
-<img align="right" width="400" alt="metrics" src="right.github.svg">
+<img align="right" alt="metrics" src="left.github.svg">
+
 
 <!-- 
+<img align="left" width="400" alt="metrics" src="right.github.svg">
 hi there :)
 img align="right" src="https://readme-jokes.vercel.app/api"> 
 -->
