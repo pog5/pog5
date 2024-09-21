@@ -6,7 +6,10 @@
   <br>
   i like unix, hifi music, tui tools & more 🎵
   <br>
-  experienced in java, c#, go | learning kotlin & ts 💻
+  <br>
+  experienced in java, c#, go 💻
+  <br>
+  learning kotlin, ts, rust 🧪
   <br>
   <br>
   i do sysadmin, social media mgmt, fullstack/backend dev
@@ -17,7 +20,6 @@
   currently working on nothing 💤
   <br>
   more about me: <a href="https://resume.nightly.eu.org">[resume]</a> <-- WIP 
-  <br>
   <br>
   <a href="nightly.eu.org">nightly.eu.org</a> | discord: <a href="https://discord.com/users/1063801507515998208">@pog5</a> | linkedin: WIP
   <br>
