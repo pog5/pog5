@@ -1,5 +1,4 @@
-<div align="left">
-
+<img align="right" width="400" alt="metrics" src="left.github.svg">
 <h1>✨ Info:</h1>
 <samp>
   
@@ -26,9 +25,8 @@
   <br>
 </samp>
 
-<img align="left" alt="@pog5 on discord" src="https://discord.c99.nl/widget/theme-3/1063801507515998208.png">
-<img align="right" width="400" alt="metrics" src="left.github.svg">
-</div>
+<img alt="@pog5 on discord" src="https://discord.c99.nl/widget/theme-3/1063801507515998208.png">
+
 
 
 
