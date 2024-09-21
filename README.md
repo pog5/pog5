@@ -1,5 +1,5 @@
 <img align="right" width="400" alt="metrics" src="left.github.svg">
-<h1>✨ Info:</h1>
+<h1>✨ hi there (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h1>
 <samp>
   
   hi! i'm nightly 👋
@@ -22,7 +22,6 @@
   <a href="nightly.eu.org">nightly.eu.org</a> | discord: <a href="https://discord.com/users/1063801507515998208">@pog5</a> | linkedin: WIP
   <br>
   email: <a href="mailto:pixel@nightly.eu.org">pixel@nightly.eu.org</a> | telegram: <a href="https://t.me/pixelnightly">@pixelnightly</a>
-  <br>
 </samp>
 
 <img alt="@pog5 on discord" src="https://discord.c99.nl/widget/theme-3/1063801507515998208.png">
