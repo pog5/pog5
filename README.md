@@ -1,5 +1,5 @@
 <img align="right" width="400" alt="metrics" src="left.github.svg">
-<h1>✨ hi there (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h1>
+<h1>✨ hi there .ᐟ.ᐟ</h1>
 <samp>
   
   hi! i'm nightly 👋
