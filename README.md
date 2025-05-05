@@ -21,7 +21,7 @@
   <br>
   more about me: <a href="https://resume.nightly.eu.org">[resume]</a> <-- WIP 
   <br>
-  <a href="nightly.eu.org">nightly.eu.org</a> | discord: <a href="https://discord.com/users/1063801507515998208">@pog5</a> | linkedin: WIP
+  <a href="https://nightly.eu.org">nightly.eu.org</a> | discord: <a href="https://discord.com/users/1063801507515998208">@pog5</a> | linkedin: WIP
   <br>
   email: <a href="mailto:pixel@nightly.eu.org">pixel@nightly.eu.org</a> | telegram: <a href="https://t.me/pixelnightly">@pixelnightly</a>
 </samp>
