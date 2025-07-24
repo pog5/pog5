@@ -7,14 +7,9 @@
   i like unix, hifi music, tui tools & more 🎵
   <br>
   <br>
-  experienced in java, c#, go 💻
-  <br>
-  learning kotlin, ts, rust 🧪
-  <br>
-  <br>
   i do sysadmin, social media mgmt, fullstack/backend dev
   <br>
-  getting into reverse engineering & devops 📚
+  getting into reverse engineering & more 📚
   <br>
   <br>
   currently working on nothing 💤
