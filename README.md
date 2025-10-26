@@ -14,9 +14,9 @@
   <br>
   currently working on nothing 💤
   <br>
-  more about me: <a href="https://resume.nightly.eu.org">[resume]</a> <-- WIP 
+  more about me: <a href="https://home.nightly.eu.org">[homepage]</a> <-- WIP 
   <br>
-  <a href="https://nightly.eu.org">nightly.eu.org</a> | discord: <a href="https://discord.com/users/1063801507515998208">@pog5</a> | linkedin: WIP
+  <a href="https://nightly.eu.org">nightly.eu.org</a> | discord: <a href="https://discord.com/users/1063801507515998208">@pog5</a>
   <br>
   email: <a href="mailto:pixel@nightly.eu.org">pixel@nightly.eu.org</a> | telegram: <a href="https://t.me/pixelnightly">@pixelnightly</a>
 </samp>
