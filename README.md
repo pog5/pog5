@@ -18,4 +18,4 @@
 
 <img align="left" width="400" alt="metrics" src="right.github.svg">
 hi there :)
-img align="right" src="https://readme-jokes.vercel.app/api"> 
+<img align="right" src="https://readme-jokes.vercel.app/api"> 
