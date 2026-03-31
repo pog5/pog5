@@ -1,4 +1,4 @@
-<!-- <img align="right" width="400" alt="metrics" src="left.github.svg"> -->
+<img align="right" width="400" alt="metrics" src="left.github.svg"> 
 <h1>✨ hi there .ᐟ.ᐟ</h1>
 <samp>
   
@@ -16,8 +16,6 @@
 
 
 
-<!-- 
 <img align="left" width="400" alt="metrics" src="right.github.svg">
 hi there :)
 img align="right" src="https://readme-jokes.vercel.app/api"> 
--->
